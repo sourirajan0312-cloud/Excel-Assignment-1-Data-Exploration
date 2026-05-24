@@ -20,10 +20,9 @@ perform basic data exploration and analysis in Microsoft Excel.
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* Executing in Excel and visible in Github page and we attached files
 ```
-code blocks for commands
+
 ```
 
 ## Help
