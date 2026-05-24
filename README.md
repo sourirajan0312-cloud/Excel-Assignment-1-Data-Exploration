@@ -10,8 +10,11 @@ perform basic data exploration and analysis in Microsoft Excel.
 ## Getting Started
 
 ### Dependencies
+*information about different products, including their Product IDs, Product Name, Brand Name, Quantity, Categories, and Prices.
 
 * Describe data exploration, logical functions, conditional aggregation, and text manipulation using Excel.
+
+* SUM , COUNTA, AVG , COUNTIF, SUMIF, MIN & MAX VALUES AND TEXT DIGIT COUNT ANT TEXT - LEFT & RIGHT & MID 
 
 ### Installing
 
@@ -20,8 +23,9 @@ perform basic data exploration and analysis in Microsoft Excel.
 
 ### Executing program
 
-* Executing in Excel and visible in Github page and we attached files
-```
+* Executing in Excel Collect the data set is Product IDs, Product Name, Brand Name, Quantity, Categories, and Prices.
+* Then Using Formula and Calculation SUM , COUNTA, AVG , COUNTIF, SUMIF, MIN & MAX VALUES AND TEXT DIGIT COUNT ANT TEXT - LEFT & RIGHT & MID 
+* Then run in Excel finaly get output
 
 ```
 
